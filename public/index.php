@@ -11,4 +11,5 @@ echo $hello->talk() . PHP_EOL;
 use CowSay\Cow;
 
 $marguerite = new Cow('Wesh les wilders');
+$marguerite->setTongue('U');
 echo $marguerite->say();
