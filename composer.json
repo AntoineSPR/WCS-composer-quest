@@ -11,5 +11,7 @@
             "name": "Lancelot"
         }
     ],
-    "require": {}
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
 }
